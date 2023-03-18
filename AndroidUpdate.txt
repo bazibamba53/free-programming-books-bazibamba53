@@ -1,1 +1,1 @@
-Locked Tabs - Adds a lock switch to every tab inside the tab switcher
+Biometric Protection - Require TouchID / FaceID verification for switching browsing modes, locking tabs, unlocking tabs
