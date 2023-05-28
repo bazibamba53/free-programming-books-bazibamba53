@@ -1,1 +1,1 @@
-Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
+Open in Opposite Mode Option - Adds an option to open a long pressed URL in the respective other browsing mode
