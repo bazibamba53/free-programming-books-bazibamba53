@@ -1,1 +1,1 @@
-Open in Opposite Mode Option - Adds an option to open a long pressed URL in the respective other browsing mode
+Upload Any File - An additional option to the document sheet that can be used to upload any file on your root file system
