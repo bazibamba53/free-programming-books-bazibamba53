@@ -1,1 +1,1 @@
-Open in Opposite Mode Option - Adds an option to open a long pressed URL in the respective other browsing mode
+Both Link Opening Options - Have both the Open in Background option and the Open in New Tab option available alongside each other
