@@ -1,1 +1,1 @@
-Desktop Mode Switch - A switch inside the tab switcher that can be used to toggle desktop mode on / off globally
+Open in Opposite Mode Option - Adds an option to open a long pressed URL in the respective other browsing mode
