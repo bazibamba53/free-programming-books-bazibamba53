@@ -1,1 +1,1 @@
-Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
+Download Manager - Extensive enhancements to the downloading functionality of Safari
