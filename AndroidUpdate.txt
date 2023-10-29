@@ -1,1 +1,1 @@
-Open in Opposite Mode Option - Adds an option to open a long pressed URL in the respective other browsing mode
+Disable Tab Limit - Disables the default tab limit (varies between devices)
