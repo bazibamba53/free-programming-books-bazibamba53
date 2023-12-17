@@ -1,1 +1,1 @@
-Disable Tab Limit - Disables the default tab limit (varies between devices)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
