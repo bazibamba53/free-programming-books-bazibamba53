@@ -1,1 +1,1 @@
-Desktop Mode Switch - A switch inside the tab switcher that can be used to toggle desktop mode on / off globally
+Upload Any File - An additional option to the document sheet that can be used to upload any file on your root file system
