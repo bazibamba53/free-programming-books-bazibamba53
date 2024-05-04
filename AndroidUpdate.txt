@@ -1,1 +1,1 @@
-Download Manager - Extensive enhancements to the downloading functionality of Safari
+Locked Tabs - Adds a lock switch to every tab inside the tab switcher
